@@ -1,3 +1,4 @@
+```mermaid
 flowchart TD
   A[Truk Masuk<br/>Timbang Bruto] --> B[Truk Keluar<br/>Timbang Tarra]
   B --> C[Hitung Netto<br/>Bruto minus Tarra]
